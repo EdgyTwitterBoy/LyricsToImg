@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "te8vOIks8Hwd2dxmEd8DoacE3Auv+9Csa7yby9jw15Y4Ia1Rndt0/+aOm+GaynHRji+JNg4f/q29A+7sjHd+Ig==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\drevo\\source\\repos\\LyricsToImg\\LyricsToImg\\LyricsToImg.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\drevo\\.nuget\\packages\\microsoft.win32.systemevents\\6.0.0\\microsoft.win32.systemevents.6.0.0.nupkg.sha512",
+    "C:\\Users\\drevo\\.nuget\\packages\\system.drawing.common\\6.0.0\\system.drawing.common.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
